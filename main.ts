@@ -7,8 +7,17 @@
 
 basic.clearScreen()
 basic.pause(1000)
-//Area and Perimeter 
 
-basic.showString('The rectangle has the dimensions of 5cm & 3cm')
-basic.showString('A=L x W, 3 x 5 = ' + ( 5 * 3).toString(cm))
-basic.showString('The perimeter would be '+ 2(5 + 3()).toString)())
+//Area and perimiter of a rectangle
+
+basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
+basic.showIcon
+basic.clearScreen()
+basic.showString('The perimiter would be:' + (2 * (5 + 3)).toString() + 'cm')
+basic.showIcon
+basic.pause(100)
+basic.clearScreen()
+basic.showString('The Area would be:' + (5 * 3).toString() + 'cm')
+basic.showIcon(IconNames.Happy)
+basic.pause(100)
+basic.clearScreen()
