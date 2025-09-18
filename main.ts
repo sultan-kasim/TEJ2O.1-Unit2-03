@@ -2,7 +2,7 @@
  *
  * Created by: Sultan
  * Created on: Sep 2025
- * This program calculates Perimeter and Area
+ * This program calculates Perimeter & Area
 */
 basic.clearScreen()
 basic.pause(1000)
