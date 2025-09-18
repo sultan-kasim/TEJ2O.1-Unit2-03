@@ -5,10 +5,9 @@
  * This program ..
 */
 
+//Area and perimiter of a rectangle
 basic.clearScreen()
 basic.pause(1000)
-
-//Area and perimiter of a rectangle
 
 basic.showString('A rectangle has dimensions 5 cm & 3 cm.')
 basic.showIcon
