@@ -2,7 +2,7 @@
  *
  * Created by: Sultan
  * Created on: Sep 2025
- * This program ..
+ * This program calculates Perimeter and Area
 */
 
 //Area and perimiter of a rectangle
